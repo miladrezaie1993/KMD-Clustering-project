@@ -1,2 +1,2 @@
 # KMD-Clustering-project
-feature extraction, and clustering based on features
+feature extraction from mode images, and clustering based on features
